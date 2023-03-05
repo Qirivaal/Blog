@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://qirivaal.github.io/categories/</loc>
+    <loc>https://qirivaal.github.io/Blog/</loc>
+    <lastmod>2023-03-05T21:37:49+07:00</lastmod>
   </url><url>
-    <loc>http://qirivaal.github.io/</loc>
+    <loc>https://qirivaal.github.io/Blog/posts/</loc>
+    <lastmod>2023-03-05T21:37:49+07:00</lastmod>
   </url><url>
-    <loc>http://qirivaal.github.io/tags/</loc>
+    <loc>https://qirivaal.github.io/Blog/posts/second-post/</loc>
+    <lastmod>2023-03-05T21:37:49+07:00</lastmod>
+  </url><url>
+    <loc>https://qirivaal.github.io/Blog/posts/my-first-post/</loc>
+    <lastmod>2023-03-05T20:36:59+07:00</lastmod>
+  </url><url>
+    <loc>https://qirivaal.github.io/Blog/categories/</loc>
+  </url><url>
+    <loc>https://qirivaal.github.io/Blog/tags/</loc>
   </url>
 </urlset>
